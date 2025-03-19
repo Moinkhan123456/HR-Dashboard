@@ -17,4 +17,10 @@ Data Modeling
 - **Structured fields like Emp ID, Job Title, Salary, Gender, Date of Join.**
 - **Ensured correct relationships and data types.**
 
+Data Cleaning
+
+- **Removed/null-handled missing values.**
+- **Standardized categorical values (Job Titles, Gender, Education Qualification).**
+- **Converted date, numerical, and string fields properly.**
+
 Analysis and create a dashboard report.
