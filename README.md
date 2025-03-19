@@ -31,4 +31,15 @@ Data Processing
   - **Binned ages for histogram**
 - **Applied necessary filters for interactive visualization.**
 
+Data Visualization
+
+- **Visualized:**
+ - **Job title-wise staff count (Bar chart)**
+    - **Gender distribution (Pie chart)**
+    - **Age distribution (Histogram)**
+    - **Staff joining trend (Line graph)**
+    - **Top earners by salary (Horizontal bar)**
+    - **Education Qualification vs Salary (Box plot)**
+    - **Leave Balance (Table)**
+
 Analysis and create a dashboard report.
