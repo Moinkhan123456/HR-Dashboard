@@ -41,5 +41,12 @@ Data Visualization
     - **Top earners by salary (Horizontal bar)**
     - **Education Qualification vs Salary (Box plot)**
     - **Leave Balance (Table)**
+  
+Files
+
+- **HR_Dashboard.twb – Tableau workbook**
+- **DataSource.csv – Cleaned HR dataset**
+- **README.md – Documentation**
+- **Dashboard_Screenshot.png – Screenshot of final dashboard**
 
 Analysis and create a dashboard report.
