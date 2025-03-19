@@ -23,4 +23,12 @@ Data Cleaning
 - **Standardized categorical values (Job Titles, Gender, Education Qualification).**
 - **Converted date, numerical, and string fields properly.**
 
+Data Processing
+
+- **Created calculated fields:
+  - **Running staff count (Year-wise)
+  - **Average leave balance by gender & job role
+  - **Binned ages for histogram
+- **Applied necessary filters for interactive visualization.
+
 Analysis and create a dashboard report.
