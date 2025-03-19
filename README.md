@@ -25,10 +25,10 @@ Data Cleaning
 
 Data Processing
 
-- **Created calculated fields:
-  - **Running staff count (Year-wise)
-  - **Average leave balance by gender & job role
-  - **Binned ages for histogram
-- **Applied necessary filters for interactive visualization.
+- **Created calculated fields:**
+  - **Running staff count (Year-wise)**
+  - **Average leave balance by gender & job role**
+  - **Binned ages for histogram**
+- **Applied necessary filters for interactive visualization.**
 
 Analysis and create a dashboard report.
