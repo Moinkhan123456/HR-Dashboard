@@ -49,4 +49,9 @@ Files
 - **README.md – Documentation**
 - **screenshot(4).png – Screenshot of final dashboard**
 
+Tools Used
+
+- **Tableau Public**
+- **Excel (Data preprocessing)**
+
 Analysis and create a dashboard report.
