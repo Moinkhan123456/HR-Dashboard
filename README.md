@@ -47,6 +47,6 @@ Files
 - **HR_Dashboard.twb – Tableau workbook**
 - **DataSource.csv – Cleaned HR dataset**
 - **README.md – Documentation**
-- **Dashboard_Screenshot.png – Screenshot of final dashboard**
+- **screenshot(4).png – Screenshot of final dashboard**
 
 Analysis and create a dashboard report.
