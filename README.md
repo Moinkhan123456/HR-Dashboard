@@ -47,11 +47,14 @@ Files
 - **HR_Dashboard.twb – Tableau workbook**
 - **DataSource.csv – Cleaned HR dataset**
 - **README.md – Documentation**
-- **screenshot(4).png – Screenshot of final dashboard**
+- **Screenshot(4).png – Screenshot of final dashboard**
 
 Tools Used
 
 - **Tableau Public**
 - **Excel (Data preprocessing)**
+
+Dashboard Interaction <a href="https://github.com/Moinkhan123456/HR-Dashboard/blob/main/Screenshot%20(4).png">View Dashboard</a>
+<br>
 
 Analysis and create a dashboard report.
