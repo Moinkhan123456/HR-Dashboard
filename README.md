@@ -11,4 +11,10 @@ The dashboard you've created analyzes HR-related data, covering:
 - **Year-wise Staff Growth**
 - **Leave Balance Analysis**
 
+Data Modeling
+
+- **Loaded HR dataset (CSV/Excel) into Tableau.**
+- **Structured fields like Emp ID, Job Title, Salary, Gender, Date of Join.**
+- **Ensured correct relationships and data types.**
+
 Analysis and create a dashboard report.
